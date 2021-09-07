@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Database for Taxi Management System](https://github.com/JhordyMora/BasicTaxiSystemManagement.MisionTIC)
 
-- 🌱 I’m currently learning **more about Data Science and Web Development**
+- 🌱 I’m currently learning **more about Data Science and machine learrning and the application of this to automate flying drones and Web Development**
 
 - 💬 Ask me about **Aeronautics ✈| Data Science 💻**
 
