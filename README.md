@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Database for Taxi Management System](https://github.com/JhordyMora/BasicTaxiSystemManagement.MisionTIC)
 
-- 🌱 I’m currently learning **more about Data Science and machine learrning and the application of this to automate flying drones and Web Development**
+- 🌱 I’m currently learning **more about Web Development (React, Node.js, Java für Backend, Django)**
 
-- 💬 Ask me about **Aeronautics ✈| Data Science 💻**
+- 💬 Ask me about **Aeronautics ✈| Data Science 🤖| Web and Software Development💻**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jhordy-alexander-mora-tabares/**
 
