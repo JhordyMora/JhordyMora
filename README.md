@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhordy Mora</h1>
-<h3 align="center">A passionate Data Science and Aeronautical Engineer</h3>
+<h3 align="center">A passionate Coder/Programmer, Data Science and Aeronautical Engineer</h3>
 
 - 🔭 I’m currently working on [Database for Taxi Management System](https://github.com/JhordyMora/BasicTaxiSystemManagement.MisionTIC)
 
